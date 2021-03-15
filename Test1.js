@@ -1,2 +1,2 @@
-let foo = 1;
-let bar = 2;
+let foo = 2;
+let bar = 1;
